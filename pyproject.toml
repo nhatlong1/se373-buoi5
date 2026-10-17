@@ -17,6 +17,4 @@ package = false
 members = [
     "stage-01-files",
     "stage-02-skills",
-    "stage-03-bash",
-    "stage-04-script-skill",
 ]
